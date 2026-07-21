@@ -67,3 +67,7 @@ lwjgl3/    Desktop launcher and Box2D native dependencies
 
 Wrecking Ball Pendulum is asset-free. Every visible element is drawn with libGDX primitives; no
 images, fonts, or audio are loaded at runtime.
+
+## License
+
+This project is available under the [MIT License](LICENSE).
